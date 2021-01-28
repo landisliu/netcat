@@ -7,7 +7,7 @@
     '.(    )..-.(      )/     )/'._.'   )/    )/     )/    for Windows
 -----------------------------------------------------------------------
 
-This NetCat for Windows was originally created by Rodney Beede, it's
+This NetCat for  Windows  was originally created by Rodney Beede, it's
 a version compiled without the GAPING_SECURITY_HOLE option (-e switch)
 which can trigger false positives in anti-virus programs. Check the
 file readme.rodneybeede.txt for further details.
